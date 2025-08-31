@@ -2,7 +2,7 @@ Passo a Passo do Projeto<br><br>
 1.	Baixar a Base de Dados<br>
 ○	Baixe e descompacte o arquivo projetos_ada.zip.<br><br>
 
-2.	Abrir o Projeto no Google Colab<br><br>
+2.	Abrir o Projeto no Google Colab<br>
 ○	Abra o Google Colab<br>
 ○	Vá no menu Arquivo > Fazer upload de notebook <br>
 ○	Selecione o arquivo Loterias.ipynb dentro da pasta projeto_grupo.<br><br>
@@ -15,6 +15,6 @@ Passo a Passo do Projeto<br><br>
  
 ○	Faça o upload do arquivo dados_loterias.csv que você baixou no Passo 1.<br><br>
 
-4.	Consultar a Documentação<br><br>
+4.	Consultar a Documentação<br>
 ○	As demais células serão executadas na sequência.<br>
 ○	Verifique os resultados.<br>
